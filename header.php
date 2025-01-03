@@ -4,7 +4,7 @@
     </div>
     <nav>
         <ul class="nav-links">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="services.php">Services</a></li>
             <li><a href="destinations.php">Destinations</a></li>
